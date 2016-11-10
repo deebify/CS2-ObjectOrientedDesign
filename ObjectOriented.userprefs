@@ -1,0 +1,14 @@
+﻿<Properties StartupItem="polymorphism/polymorphism.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ObjectOriented/Program.cs">
+    <Files>
+      <File FileName="ObjectOriented/Program.cs" Line="38" Column="15" />
+      <File FileName="AccessModifiers/Models/Accountant.cs" Line="8" Column="10" NotebookId="1" />
+      <File FileName="AccessModifiers/Program.cs" Line="7" Column="23" NotebookId="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
