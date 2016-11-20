@@ -1,3 +1,3 @@
-# CS2-ObjectOrientedDesign
+# CS1-ObjectOrientedDesign
 CS Elective 1 -- Object Oriented Design with C#
 
