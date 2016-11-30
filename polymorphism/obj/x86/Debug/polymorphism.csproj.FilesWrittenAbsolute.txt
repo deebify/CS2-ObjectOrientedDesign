@@ -1,5 +1,0 @@
-/home/deeb/Work Apps/CSharpApp/ObjectOriented/polymorphism/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
-/home/deeb/Work Apps/CSharpApp/ObjectOriented/polymorphism/bin/Debug/polymorphism.exe.mdb
-/home/deeb/Work Apps/CSharpApp/ObjectOriented/polymorphism/bin/Debug/polymorphism.exe
-/home/deeb/Work Apps/CSharpApp/ObjectOriented/polymorphism/obj/x86/Debug/polymorphism.exe
-/home/deeb/Work Apps/CSharpApp/ObjectOriented/polymorphism/obj/x86/Debug/polymorphism.exe.mdb
