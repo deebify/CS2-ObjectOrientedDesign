@@ -1,11 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObjectOriented", "ObjectOriented\ObjectOriented.csproj", "{6307FDE4-9F81-400E-A580-0229FE9A5707}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractionEncapsulation", "ObjectOriented\AbstractionEncapsulation.csproj", "{6307FDE4-9F81-400E-A580-0229FE9A5707}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AccessModifiers", "AccessModifiers\AccessModifiers.csproj", "{02634ED9-7079-4DF6-B9EB-8C0DE2B2E6CF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "polymorphism\Polymorphism.csproj", "{BF698515-A9E0-436B-935D-D48C2487C88C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "polymorphism", "polymorphism\polymorphism.csproj", "{BF698515-A9E0-436B-935D-D48C2487C88C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{B6DD5D88-25BE-4CBB-A98D-5DC95471055A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -13,14 +13,14 @@ Global
 		Release|x86 = Release|x86
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{02634ED9-7079-4DF6-B9EB-8C0DE2B2E6CF}.Debug|x86.ActiveCfg = Debug|x86
-		{02634ED9-7079-4DF6-B9EB-8C0DE2B2E6CF}.Debug|x86.Build.0 = Debug|x86
-		{02634ED9-7079-4DF6-B9EB-8C0DE2B2E6CF}.Release|x86.ActiveCfg = Release|x86
-		{02634ED9-7079-4DF6-B9EB-8C0DE2B2E6CF}.Release|x86.Build.0 = Release|x86
 		{6307FDE4-9F81-400E-A580-0229FE9A5707}.Debug|x86.ActiveCfg = Debug|x86
 		{6307FDE4-9F81-400E-A580-0229FE9A5707}.Debug|x86.Build.0 = Debug|x86
 		{6307FDE4-9F81-400E-A580-0229FE9A5707}.Release|x86.ActiveCfg = Release|x86
 		{6307FDE4-9F81-400E-A580-0229FE9A5707}.Release|x86.Build.0 = Release|x86
+		{B6DD5D88-25BE-4CBB-A98D-5DC95471055A}.Debug|x86.ActiveCfg = Debug|x86
+		{B6DD5D88-25BE-4CBB-A98D-5DC95471055A}.Debug|x86.Build.0 = Debug|x86
+		{B6DD5D88-25BE-4CBB-A98D-5DC95471055A}.Release|x86.ActiveCfg = Release|x86
+		{B6DD5D88-25BE-4CBB-A98D-5DC95471055A}.Release|x86.Build.0 = Release|x86
 		{BF698515-A9E0-436B-935D-D48C2487C88C}.Debug|x86.ActiveCfg = Debug|x86
 		{BF698515-A9E0-436B-935D-D48C2487C88C}.Debug|x86.Build.0 = Debug|x86
 		{BF698515-A9E0-436B-935D-D48C2487C88C}.Release|x86.ActiveCfg = Release|x86

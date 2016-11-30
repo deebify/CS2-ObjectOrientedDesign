@@ -7,6 +7,7 @@ namespace ObjectOriented
 		//Encapsulate this field
 		private double _balance;
 
+		//Accessible for Public
 		public double balance {
 			get { 
 				return _balance;

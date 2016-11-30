@@ -1,4 +1,4 @@
-﻿<Properties StartupItem="polymorphism/polymorphism.csproj">
+﻿<Properties StartupItem="polymorphism/Polymorphism.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
   <MonoDevelop.Ide.Workbench ActiveDocument="ObjectOriented/Program.cs">
     <Files>
